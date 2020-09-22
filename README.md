@@ -17,3 +17,4 @@
 - [ ] 3.4 - Chapter Summary <結語>
 
 sync test
+02
