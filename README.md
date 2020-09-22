@@ -11,9 +11,7 @@
 ### <先跳過>
 --------------------------------------------------------------
 ### Ch3 (week 2-)
-- [x] 3.1 - Rules of Communication
-- [x] 3.2 - Network Protocols and Stamdards
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] 3.1 - Rules of Communication <通訊規則>
+- [x] 3.2 - Network Protocols and Stamdards <網路協議與標準>
+- [x] 3.3 - Data Transfer in the Network <網路中的數據傳輸>
+- [x] 3.4 - Chapter Summary <結語>
