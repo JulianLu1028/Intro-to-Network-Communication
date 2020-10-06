@@ -26,8 +26,8 @@
 
 ### Ch04 - Network Access
 
-- [ ] 04.1 - Physical Layer Protocol <物理層協議>
-- [ ] 04.2 - Network Meida <網路媒體>
+- [x] 04.1 - Physical Layer Protocol <物理層協議>
+- [x] 04.2 - Network Meida <網路媒體>
 - [ ] 04.3 - Data Link Layer Protocol <數據鏈路層協議>
 - [ ] 04.4 - Media Access Control <媒體存取控制>
 
